@@ -1,6 +1,6 @@
 # Hello  I'm Dhirtiman 🙋🏽‍♂️
 I am trying to learn coding one line at a time.
-Currently Learning Frontend and more. Always looking to improve and grow as a developer.
+Currently Learning Frontend with Vue.js framework. 
 
 - You can find me at [Twitter](https://twitter.com/dhirtiman).🕊
 

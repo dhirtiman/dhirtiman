@@ -8,7 +8,7 @@ I want to grow my skills in a professional team environment as a developer.
 
 
 
-- You can find me on [x](https://twitter.com/dhirtiman).🕊 and [discord] too!
+- You can find me on [x](https://twitter.com/dhirtiman).🕊 and [discord](https://discord.gg/Fpb62YKY) too!
 
 
 
